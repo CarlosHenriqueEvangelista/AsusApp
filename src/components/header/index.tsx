@@ -4,6 +4,6 @@ import { View } from 'react-native'
 
 import { styles } from './stylization'
 
-export function Home() {
+export function header() {
   return <View></View>
 }
